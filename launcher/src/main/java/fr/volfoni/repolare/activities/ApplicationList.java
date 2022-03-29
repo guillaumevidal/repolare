@@ -15,7 +15,7 @@
  * limitations under the License.
  */
 
-package net.reichholf.repola.activities;
+package fr.volfoni.repolare.activities;
 
 import android.app.Activity;
 import android.content.Intent;
@@ -24,13 +24,13 @@ import android.os.Bundle;
 import android.provider.Settings;
 import android.view.View;
 
-import net.reichholf.repola.AppInfo;
-import net.reichholf.repola.R;
-import net.reichholf.repola.Setup;
-import net.reichholf.repola.adapter.AppInfoAdapter;
-import net.reichholf.repola.adapter.ItemClickSupport;
-import net.reichholf.repola.databinding.ApplicationsBinding;
-import net.reichholf.repola.views.models.ApplicationViewModel;
+import fr.volfoni.repolare.AppInfo;
+import fr.volfoni.repolare.R;
+import fr.volfoni.repolare.Setup;
+import fr.volfoni.repolare.adapter.AppInfoAdapter;
+import fr.volfoni.repolare.adapter.ItemClickSupport;
+import fr.volfoni.repolare.databinding.ApplicationsBinding;
+import fr.volfoni.repolare.views.models.ApplicationViewModel;
 
 import java.util.ArrayList;
 import java.util.List;

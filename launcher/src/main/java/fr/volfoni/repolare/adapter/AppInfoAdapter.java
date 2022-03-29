@@ -1,4 +1,4 @@
-package net.reichholf.repola.adapter;
+package fr.volfoni.repolare.adapter;
 
 import android.graphics.Outline;
 import android.graphics.drawable.Drawable;
@@ -9,10 +9,10 @@ import android.view.ViewOutlineProvider;
 import android.widget.ImageView;
 import android.widget.TextView;
 
-import net.reichholf.repola.AppInfo;
-import net.reichholf.repola.R;
-import net.reichholf.repola.Setup;
-import net.reichholf.repola.Utils;
+import fr.volfoni.repolare.AppInfo;
+import fr.volfoni.repolare.R;
+import fr.volfoni.repolare.Setup;
+import fr.volfoni.repolare.Utils;
 
 import java.util.List;
 

@@ -1,8 +1,8 @@
-package net.reichholf.repola.activities;
+package fr.volfoni.repolare.activities;
 
 import android.os.Bundle;
 
-import net.reichholf.repola.R;
+import fr.volfoni.repolare.R;
 
 import androidx.appcompat.app.AppCompatActivity;
 

@@ -16,7 +16,7 @@
  * limitations under the License.
  */
 
-package net.reichholf.repola;
+package fr.volfoni.repolare;
 
 import android.content.pm.ApplicationInfo;
 import android.content.pm.PackageManager;

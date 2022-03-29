@@ -15,9 +15,8 @@
  * limitations under the License.
  */
 
-package net.reichholf.repola.activities;
+package fr.volfoni.repolare.activities;
 
-import android.os.Build;
 import android.os.Bundle;
 
 import androidx.appcompat.app.AppCompatDelegate;
@@ -26,8 +25,8 @@ import androidx.fragment.app.FragmentActivity;
 import android.view.View;
 import android.view.WindowManager;
 
-import net.reichholf.repola.R;
-import net.reichholf.repola.fragments.ApplicationFragment;
+import fr.volfoni.repolare.R;
+import fr.volfoni.repolare.fragments.ApplicationFragment;
 
 public class Launcher extends FragmentActivity {
 

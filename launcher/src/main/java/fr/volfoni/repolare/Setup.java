@@ -15,13 +15,13 @@
  * limitations under the License.
  */
 
-package net.reichholf.repola;
+package fr.volfoni.repolare;
 
 import android.content.Context;
 import android.content.SharedPreferences;
 import android.preference.PreferenceManager;
 
-import net.reichholf.repola.fragments.PreferenceFragment;
+import fr.volfoni.repolare.fragments.PreferenceFragment;
 
 
 public class Setup {

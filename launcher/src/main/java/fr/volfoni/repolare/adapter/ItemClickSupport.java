@@ -1,8 +1,8 @@
-package net.reichholf.repola.adapter;
+package fr.volfoni.repolare.adapter;
 
 import android.view.View;
 
-import net.reichholf.repola.R;
+import fr.volfoni.repolare.R;
 
 import androidx.recyclerview.widget.RecyclerView;
 

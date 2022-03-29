@@ -15,7 +15,7 @@
  * limitations under the License.
  */
 
-package net.reichholf.repola;
+package fr.volfoni.repolare;
 
 import android.app.Application;
 import android.content.BroadcastReceiver;

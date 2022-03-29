@@ -15,7 +15,7 @@
  * limitations under the License.
  */
 
-package net.reichholf.repola.fragments;
+package fr.volfoni.repolare.fragments;
 
 import android.app.Activity;
 import android.content.Context;
@@ -39,14 +39,14 @@ import android.view.ViewOutlineProvider;
 import android.widget.LinearLayout;
 import android.widget.Toast;
 
-import net.reichholf.repola.AppInfo;
-import net.reichholf.repola.R;
-import net.reichholf.repola.Setup;
-import net.reichholf.repola.Utils;
-import net.reichholf.repola.activities.ApplicationList;
-import net.reichholf.repola.activities.Preferences;
-import net.reichholf.repola.databinding.FragmentApplicationBinding;
-import net.reichholf.repola.views.ApplicationView;
+import fr.volfoni.repolare.AppInfo;
+import fr.volfoni.repolare.R;
+import fr.volfoni.repolare.Setup;
+import fr.volfoni.repolare.Utils;
+import fr.volfoni.repolare.activities.ApplicationList;
+import fr.volfoni.repolare.activities.Preferences;
+import fr.volfoni.repolare.databinding.FragmentApplicationBinding;
+import fr.volfoni.repolare.views.ApplicationView;
 
 import java.io.FileNotFoundException;
 import java.io.IOException;

@@ -1,9 +1,9 @@
-package net.reichholf.repola.views.models;
+package fr.volfoni.repolare.views.models;
 
 import android.app.Application;
 
-import net.reichholf.repola.AppInfo;
-import net.reichholf.repola.AppManager;
+import fr.volfoni.repolare.AppInfo;
+import fr.volfoni.repolare.AppManager;
 
 import java.util.List;
 

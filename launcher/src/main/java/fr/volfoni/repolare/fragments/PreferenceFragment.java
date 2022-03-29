@@ -1,4 +1,4 @@
-package net.reichholf.repola.fragments;
+package fr.volfoni.repolare.fragments;
 
 import android.content.Intent;
 import android.content.pm.PackageInfo;
@@ -7,7 +7,7 @@ import android.net.Uri;
 import android.os.Bundle;
 import android.widget.Toast;
 
-import net.reichholf.repola.R;
+import fr.volfoni.repolare.R;
 
 import java.util.Locale;
 

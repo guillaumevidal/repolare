@@ -15,26 +15,16 @@
  * limitations under the License.
  */
 
-package net.reichholf.repola;
+package fr.volfoni.repolare;
 
 import android.content.Context;
-import android.content.Intent;
-import android.content.pm.PackageManager;
-import android.content.pm.ResolveInfo;
 import android.content.res.Resources;
 import android.graphics.PorterDuff;
 import android.graphics.drawable.Drawable;
-import android.os.AsyncTask;
 import android.util.TypedValue;
 
 import java.util.ArrayList;
-import java.util.Collections;
-import java.util.Comparator;
-import java.util.List;
-import java.util.Set;
-import java.util.HashSet;
 
-import androidx.annotation.ColorInt;
 import androidx.palette.graphics.Palette;
 
 public class Utils {

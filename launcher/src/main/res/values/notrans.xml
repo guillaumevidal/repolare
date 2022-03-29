@@ -16,7 +16,7 @@
   -->
 
 <resources>
-	<string name="app_name" translatable="false">RePoLa</string>
+	<string name="app_name" translatable="false">RePoLaRe</string>
 	<string name="title_github" translatable="false">Github</string>
 
 	<string-array name="grid_x" translatable="false">

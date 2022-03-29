@@ -16,7 +16,7 @@
  * limitations under the License.
  */
 
-package net.reichholf.repola.views;
+package fr.volfoni.repolare.views;
 
 import android.animation.AnimatorInflater;
 import android.content.Context;
@@ -33,10 +33,10 @@ import android.view.KeyEvent;
 import android.view.View;
 import android.view.ViewOutlineProvider;
 
-import net.reichholf.repola.R;
-import net.reichholf.repola.Setup;
-import net.reichholf.repola.Utils;
-import net.reichholf.repola.databinding.ApplicationBinding;
+import fr.volfoni.repolare.R;
+import fr.volfoni.repolare.Setup;
+import fr.volfoni.repolare.Utils;
+import fr.volfoni.repolare.databinding.ApplicationBinding;
 
 import java.util.Locale;
 
