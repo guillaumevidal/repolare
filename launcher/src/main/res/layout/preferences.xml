@@ -7,7 +7,7 @@
 
 	<androidx.fragment.app.FragmentContainerView
 		android:id="@+id/fragment_container_view"
-		android:name="fr.volfoni.repolare.re.fragments.PreferenceFragment"
+		android:name="fr.volfoni.repolare.fragments.PreferenceFragment"
 		android:layout_width="match_parent"
 		android:layout_height="match_parent" />
 
