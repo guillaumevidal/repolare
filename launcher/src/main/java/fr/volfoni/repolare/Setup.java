@@ -27,6 +27,7 @@ import fr.volfoni.repolare.fragments.PreferenceFragment;
 public class Setup {
 	private static final int DEFAULT_GRID_X = 3;
 	private static final int DEFAULT_GRID_Y = 2;
+	private static final int DEFAULT_PAGES = 1;
 
 	private final Context mContext;
 	private SharedPreferences mPreferences;
@@ -87,6 +88,10 @@ public class Setup {
 
 	public int getGridY() {
 		return getInt(PreferenceFragment.PREFERENCE_GRID_Y, DEFAULT_GRID_Y);
+	}
+
+	public int getPages() {
+		return getInt(PreferenceFragment.PREFERENCE_PAGES, DEFAULT_PAGES);
 	}
 
 	public boolean colorfulIcons() {

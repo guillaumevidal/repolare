@@ -21,6 +21,7 @@ public class PreferenceFragment extends PreferenceFragmentCompat {
 	public static final String PREFERENCE_SHOW_DATE = "preference_show_date";
 	public static final String PREFERENCE_GRID_X = "preference_grid_x";
 	public static final String PREFERENCE_GRID_Y = "preference_grid_y";
+	public static final String PREFERENCE_PAGES = "preference_pages";
 	public static final String PREFERENCE_SHOW_NAME = "preference_show_name";
 	public static final String PREFERENCE_LOCKED = "preference_locked";
 	public static final String PREFERENCE_GITHUB = "preference_github";
@@ -35,6 +36,7 @@ public class PreferenceFragment extends PreferenceFragmentCompat {
 
 		bindSummary(PREFERENCE_GRID_X, R.string.summary_grid_x);
 		bindSummary(PREFERENCE_GRID_Y, R.string.summary_grid_y);
+		bindSummary(PREFERENCE_PAGES, R.string.summary_pages);
 		bindSeekbarSummary(PREFERENCE_CORNER_RADIUS, R.string.corner_radius_summary);
 
 		findPreference(PREFERENCE_GITHUB).setOnPreferenceClickListener(preference -> {

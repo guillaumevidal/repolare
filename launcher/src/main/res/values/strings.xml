@@ -25,6 +25,8 @@
 	<string name="summary_grid_x">%s columns</string>
 	<string name="title_grid_y">Rows</string>
 	<string name="summary_grid_y">%s rows</string>
+	<string name="title_pages">Pages</string>
+	<string name="summary_pages">%s page(s)</string>
 	<string name="system">System</string>
 	<string name="title_background">Background</string>
 	<string name="summary_background">Set background image</string>

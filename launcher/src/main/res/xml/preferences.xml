@@ -38,6 +38,13 @@
 		app:key="category_grid"
 		app:title="@string/app_grid">
 		<ListPreference
+			app:defaultValue="1"
+			app:entries="@array/pages"
+			app:entryValues="@array/pages"
+			app:key="preference_pages"
+			app:summary="@string/summary_pages"
+			app:title="@string/title_pages" />
+		<ListPreference
 			app:defaultValue="3"
 			app:entries="@array/grid_x"
 			app:entryValues="@array/grid_x"
