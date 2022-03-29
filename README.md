@@ -1,6 +1,6 @@
-# RePoLa
+# RePoLaRe
 
-This is a launcher specifically trimmed for the retroid pocket 2 (originally based on https://github.com/alescdb/LauncherTV).
+This is a fork of RePoLa launcher (https://github.com/sreichholf/repola).
 
 ![main](/screenshots/main.png?raw=true "Main Launcher Screen")
 
